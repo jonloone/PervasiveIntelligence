@@ -105,4 +105,4 @@ future is now. All these technologies are available today, and
 forward-thinking companies are implementing them. I believe that in five
 years, companies that haven't implemented these technologies---at least
 to some degree---will be short-changing their future and may end up with
-a bleak one.
+a bleak one. 
